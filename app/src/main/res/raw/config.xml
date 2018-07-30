@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JustAnApp>
+    <Config>
+        <PackageName>com.android.settings</PackageName> <!-- Can be any PackageName installed on the device -->
+        <DenySettings>false</DenySettings>  <!-- 1, true, yes, on, y are all equal to true anything else is false -->
+    </Config>
+</JustAnApp>
